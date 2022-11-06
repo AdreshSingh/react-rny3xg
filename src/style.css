@@ -30,3 +30,11 @@ input[type='submit'] {
 input[type='submit']:hover {
   border: 3px solid green;
 }
+button {
+  background: red;
+  border-radius: 10px;
+  width: 50%;
+  position: relative;
+  left: 30%;
+  color: antiquewhite;
+}
